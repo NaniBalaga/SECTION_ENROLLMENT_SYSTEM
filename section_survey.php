@@ -622,6 +622,8 @@ $available_sections = getAvailableSections($user['class']);
             gap: 1rem;
         }
 
+
+        
         .no-members i {
             font-size: 2.5rem;
             color: var(--gray-light);
