@@ -4,6 +4,7 @@ The **Section Enrollment System** is a responsive web-based platform designed to
 
 ---
 
+
 ## 🔍 Overview
 
 This system provides a user-friendly interface for students to:
